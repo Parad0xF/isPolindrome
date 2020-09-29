@@ -1,4 +1,4 @@
-Is Polindrome?
+## Is Polindrome?
 <br><p> ![alt text](https://img.shields.io/github/languages/code-size/Parad0xF/isPolindrome "Repo size")</p>
 
 ## Table of contents
