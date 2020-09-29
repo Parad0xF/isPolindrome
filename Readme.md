@@ -1,4 +1,5 @@
-Is Polindrome? ![counter](https://[YourEndpoint].m.pipedream.net)
+Is Polindrome? 
+![counter](https://img.shields.io/github/languages/code-size/Parad0xF/isPolindrome)
 
 ## Table of contents
 * [General info](#general-info)
