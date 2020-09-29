@@ -1,5 +1,5 @@
-/* Radu Enachi 09/29/2020*/
-/* The promgram is checkin if the string is polindrome*/
+/** Radu Enachi 09/29/2020*/
+/** The promgram is checkin if the string is polindrome C++ using recursion*/
 
 #include <iostream>
 #include <string>
@@ -9,7 +9,7 @@ using namespace std;
 bool isPolindrome(string s);
 
 int main() {
-	string s = "home";
+	string s = "radar";
 
 	cout << isPolindrome(s);
 
