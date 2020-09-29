@@ -1,5 +1,5 @@
 <h1>Is Polindrome?</h1>
-<br><p> ![counter](https://img.shields.io/github/languages/code-size/Parad0xF/isPolindrome)</p>
+<br><p> ![alt text](https://img.shields.io/github/languages/code-size/Parad0xF/isPolindrome "Repo size")</p>
 
 ## Table of contents
 * [General info](#general-info)
