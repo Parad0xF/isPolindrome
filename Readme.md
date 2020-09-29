@@ -1,5 +1,5 @@
 ## Is Polindrome?
-<p> ![alt text](https://img.shields.io/github/languages/code-size/Parad0xF/isPolindrome "Repo size")</p>
+<a> ![alt text](https://img.shields.io/github/languages/code-size/Parad0xF/isPolindrome "Repo size")</a>
 
 ## Table of contents
 * [General info](#general-info)
